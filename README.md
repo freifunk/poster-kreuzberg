@@ -1,6 +1,6 @@
 # poster-kreuzberg
 
-Freifunk-Poster für das Bezirksamt Kreuzberg
+Freifunk-Poster für das Bezirksamt Kreuzberg als Inkscape SVG (mit anderen Betrachtern als Inkscape kann das SVG unter Umständen nicht korrekt angezeigt werden).
 
 # Dank
 
